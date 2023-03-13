@@ -516,3 +516,16 @@ height: 8rem;
 margin-left: .8rem;
 
 }
+/* footer */
+
+footer{
+
+background: blue;
+
+padding: 15px 23px;
+
+color: #fff;
+
+text-align: center;
+
+}
